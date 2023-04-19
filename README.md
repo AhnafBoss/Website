@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Design studio one page template - ARCHIVED
 
 Flat and responsive website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
@@ -189,3 +190,7 @@ This project uses BrowserSync as static server with enabled and configured live 
 ## License
 
 [MIT](https://github.com/website-templates/design-studio_one-page-template/blob/master/LICENSE.md)
+=======
+# Website
+My first page to be hosted on GitHub Pages.
+>>>>>>> 08ecdad9d62a7bc7670fc257702e72611b58e225
